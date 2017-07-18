@@ -1,0 +1,2 @@
+# awstrial
+aws services trial
